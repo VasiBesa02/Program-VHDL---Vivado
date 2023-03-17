@@ -1,4 +1,4 @@
-Scoreboard controller - Besa Vasile - VHDL - college project
+--Scoreboard controller - Besa Vasile - VHDL - college project
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
